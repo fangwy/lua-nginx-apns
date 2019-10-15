@@ -1,0 +1,8 @@
+client_body_temp
+fastcgi_temp
+logs
+proxy_temp
+scgi_temp
+tmp
+uwsgi_temp
+static
